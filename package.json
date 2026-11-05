@@ -1,0 +1,22 @@
+{
+  "name": "pc-screen-relay-server",
+  "version": "1.0.0",
+  "description": "Standalone WebSocket & HTTP Live Screen Share Relay Server for PC Agent and Mobile/React Native Viewer (Render.com Ready)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "screen-share",
+    "websocket",
+    "relay",
+    "mjpeg",
+    "react-native"
+  ],
+  "license": "MIT"
+}
+
